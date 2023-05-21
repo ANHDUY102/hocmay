@@ -4,7 +4,7 @@ import streamlit as st
 st.markdown("<h1><span style='color: red;'>CHÀO MỪNG THẦY ĐÃ ĐẾN VỚI PROJECT CUỐI KỲ MÔN HỌC MÁY  CỦA CHÚNG EM</span></h1>", unsafe_allow_html=True)
 
 #thiet lap thong tin tieu de 
-st.sidebar.title(" Võ Xuân Nhật - 20146385 và Nguyễn Trần Trung Hiếu - 20146464")
+st.sidebar.title(" LÊ ANH DUY- 19146167 và Đặng Hữu Hiếu - 20146464")
 #thiết lập hình nền bên trái cho sidebar 
 st.sidebar.markdown(
 	f"""
